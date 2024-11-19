@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marwaAcademy/static/css/main.1a1cbe61.css",
+    "main.js": "/marwaAcademy/static/js/main.5690e50f.js",
+    "index.html": "/marwaAcademy/index.html",
+    "main.1a1cbe61.css.map": "/marwaAcademy/static/css/main.1a1cbe61.css.map",
+    "main.5690e50f.js.map": "/marwaAcademy/static/js/main.5690e50f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1cbe61.css",
+    "static/js/main.5690e50f.js"
+  ]
+}
